@@ -1,24 +1,18 @@
-# Welcome to HashLips 👄
+# Welcome to WBrooms
 
-![](https://github.com/HashLips/hashlips_art_engine/blob/main/logo.png)
-
-All the code in these repos was created and explained by HashLips on the main YouTube channel.
+![](https://openseauserdata.com/files/72f49baeb3cbc56a3ad5b79a4b4cc6dd.png)
 
 To find out more please visit:
 
-[📺 YouTube](https://www.youtube.com/channel/UC1LV4_VQGBJHTJjEWUmy8nA)
+[Discord](https://discord.gg/CxPKeZtJR6)
 
-[👄 Discord](https://discord.com/invite/qh6MWhMJDN)
+[Twitter](https://twitter.com/adigitalab)
 
-[💬 Telegram](https://t.me/hashlipsnft)
+[Website](https://adigitalab.com/)
 
-[🐦 Twitter](https://twitter.com/hashlipsnft)
+# 321 W.Brooms Art Engine 🔥
 
-[ℹ️ Website](https://hashlips.online/HashLips)
-
-# HashLips Art Engine 🔥
-
-![](https://github.com/HashLips/hashlips_art_engine/blob/main/banner.png)
+![](https://openseauserdata.com/files/14127914c26f6ccba3903280b6930840.png)
 
 Create generative art by using the canvas api and node js. Before you use the generation engine, make sure you have node.js(v10.18.0) installed.
 
@@ -309,5 +303,3 @@ Trait type: Top lid
   occurrence: '14 in 20 editions (70.00 %)'
 }
 ```
-
-Hope you create some awesome artworks with this code 👄
